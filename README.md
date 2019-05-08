@@ -1,6 +1,6 @@
 # Objective Accounting
 
-This flash drive is Objective Accounting's accounting software package for Dr. Mamo's Application Domain Spring 2019.
+
 
 ## Getting Started
 
